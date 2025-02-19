@@ -4,7 +4,7 @@ Welcome to my repository where I build **50 mini JavaScript projects** to practi
 
 <hr>
 
-## 🚀 Projects List
+## 🚀 Projects List --
 
 Here are the projects I've completed so far:
 
@@ -48,7 +48,7 @@ I will be adding more mini JavaScript projects to this repository. Stay tuned fo
 
 ## � How to Use
 
-1. Clone the repository:
+### 1. Clone the repository:
    ```bash
    git clone https://github.com/mmtiwari222/JavaScript-Projects.git
    
@@ -58,26 +58,28 @@ Open the specific project folder and launch the index.html file in your browser.
 
 <hr>
 
-💡 Technologies Used
-HTML
-CSS
-JavaScript
+###💡 Technologies Used :
+<ul>
+<li><b>HTML</b></li>
+<li><b>CSS</b></li>
+<li><b>JS</b></li>
+</ul>
 
 <hr>
 
-🤝 Contributing
+###🤝 Contributing:
 If you'd like to contribute to this project, feel free to open an issue or submit a pull request. All contributions are welcome!
 
 <hr>
 
-📢 Feedback & Suggestions
+###📢 Feedback & Suggestions:
 Feel free to open an issue for feedback, questions, or suggestions. I’d love to hear your thoughts! 😄
 
 <hr>
 
-⭐ Support
+###⭐ Support:
 If you find this repository useful, consider giving it a ⭐ and sharing it with others. Happy coding! 🎉
 
 <hr>
 
-Thank you for visiting! Stay tuned for more awesome JavaScript projects. 🚀
+#### Thank you for visiting! Stay tuned for more awesome JavaScript projects. 🚀
